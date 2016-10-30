@@ -2,9 +2,8 @@ h1{
   font-size: 75px;
 }
 
-.container-fluid {
-    padding-top: 90px;
-    padding-bottom: 90px;
+p {
+  font-size: 20px;
 }
 
 body {
@@ -12,8 +11,9 @@ body {
     color: #f5f6f7;
 }
 
-p {
-	font-size: 15px;
+.container-fluid {
+    padding-top: 90px;
+    padding-bottom: 90px;
 }
 
 .bg-1 { 
